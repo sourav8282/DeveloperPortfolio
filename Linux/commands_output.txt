@@ -1,0 +1,96 @@
+COMMAND 1: ls -la ~
+total 320
+drwxr-x---+ 59 sourav  staff   1888 26 Nov 15:09 .
+drwxr-xr-x   5 root    admin    160 17 Nov 22:43 ..
+drwxr-xr-x@  5 sourav  staff    160 27 Oct 11:40 .cache
+drwxr-xr-x   9 sourav  staff    288 27 Oct 11:59 .cargo
+-r--------   1 sourav  staff      7  5 Sep 19:36 .CFUserTextEncoding
+drwx------@ 18 sourav  staff    576  5 Nov 11:35 .claude
+-rw-------   1 sourav  staff  45149 27 Oct 11:30 .claude.json
+drwxr-xr-x@ 40 sourav  staff   1280 29 Oct 09:37 .codex
+drwxr-xr-x   4 sourav  staff    128 27 Oct 11:39 .config
+drwx------@  7 sourav  staff    224 15 Oct 20:04 .copilot
+-rw-r--r--@  1 sourav  staff  28676 26 Nov 10:12 .DS_Store
+-rw-r--r--   1 sourav  staff     84  5 Nov 15:08 .gitconfig
+drwxr-xr-x   3 sourav  staff     96 10 Sep 10:17 .idlerc
+drwxr-xr-x@  8 sourav  staff    256 28 Sep 20:44 .kickbacks
+drwxr-xr-x   5 sourav  staff    160 27 Oct 11:30 .local
+drwxr-xr-x@  5 sourav  staff    160 22 Sep 20:56 .npm
+drwxr-xr-x  11 sourav  staff    352 27 Oct 14:11 .ollama
+drwx------  13 sourav  staff    416 27 Oct 12:32 .openjarvis
+drwxr-xr-x@  3 sourav  staff     96  5 Nov 11:36 .postman
+-rw-r--r--   1 sourav  staff     47 27 Oct 11:57 .profile
+-rw-------@  1 sourav  staff     39 23 Sep 19:46 .psql_history
+drwxr-xr-x   7 sourav  staff    224 27 Oct 11:57 .rustup
+-rw-r--r--   1 sourav  staff     31 27 Oct 11:57 .tcshrc
+drwx------+ 29 sourav  staff    928 26 Nov 10:10 .Trash
+drwxr-xr-x@  9 sourav  staff    288 13 Sep 12:49 .venv
+drwxr-xr-x@  6 sourav  staff    192  8 Oct 21:50 .vscode
+drwxr-xr-x@  3 sourav  staff     96  6 Sep 10:07 .vscode-shared
+-rw-r--r--@  1 sourav  staff    540 23 Sep 09:43 .zprofile
+-rw-r--r--@  1 sourav  staff    374 22 Sep 20:23 .zprofile.pysave
+-rw-------@  1 sourav  staff  39239 26 Nov 15:09 .zsh_history
+drwx------  14 sourav  staff    448 26 Nov 15:04 .zsh_sessions
+-rw-r--r--   1 sourav  staff     21 27 Oct 11:57 .zshenv
+-rw-r--r--   1 sourav  staff     26 27 Oct 11:39 .zshrc
+drwxr-xr-x@  3 sourav  staff     96 29 Oct 12:14 chess board 
+drwxr-xr-x   6 sourav  staff    192 30 Oct 12:12 cse103_backups
+drwxr-xr-x   5 sourav  staff    160  3 Nov 21:08 cse103_lab
+drwxr-xr-x   2 sourav  staff     64  5 Oct 14:50 css
+drwx------@  7 sourav  staff    224 26 Nov 15:06 Desktop
+drwxr-xr-x   4 sourav  staff    128 25 Nov 23:25 developer-portfolio
+drwxr-xr-x   9 sourav  staff    288 26 Nov 15:06 DeveloperPortfolio
+drwx------@  5 sourav  staff    160  4 Nov 19:11 Documents
+drwx------@ 22 sourav  staff    704 26 Nov 14:53 Downloads
+drwxr-xr-x   4 sourav  staff    128  5 Nov 15:11 git-setup-check
+drwx------@ 96 sourav  staff   3072 31 Oct 20:25 Library
+drwxr-xr-x  10 sourav  staff    320 21 Oct 10:16 linux_demo
+drwxr-xr-x  10 sourav  staff    320  7 Oct 10:39 linux_practice
+drwx------   8 sourav  staff    256  5 Oct 20:56 Movies
+drwx------+  7 sourav  staff    224  5 Oct 20:54 Music
+drwxr-xr-x   4 sourav  staff    128  3 Nov 21:07 new css
+-rw-r--r--@  1 sourav  staff     85 24 Sep 10:15 package-lock.json
+drwx------+  6 sourav  staff    192 14 Sep 15:03 Pictures
+drwxr-xr-x@  3 sourav  staff     96  5 Nov 11:35 Postman
+drwxr-xr-x+  4 sourav  staff    128  5 Sep 19:36 Public
+drwxr-xr-x@  3 sourav  staff     96 17 Nov 10:39 python
+drwxr-xr-x@ 10 sourav  staff    320 26 Nov 14:15 python.
+drwxr-xr-x@  4 sourav  staff    128  8 Oct 12:00 registration css
+drwxr-xr-x   7 sourav  staff    224 30 Oct 20:23 shell_debug
+drwxr-xr-x   3 sourav  staff     96 22 Sep 10:53 TECH ASSIGNMENTHTML.HTML3
+-rw-r--r--@  1 sourav  staff      0 21 Sep 15:00 website 
+
+COMMAND 2: ps aux | head -10
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root               412   8.5  0.0 488838160   8000   ??  Ss   Wed10AM   6:44.26 /usr/libexec/corebrightnessd --launchd
+_windowserver      416   4.2  0.7 490227248 124480   ??  Ss   Wed10AM  94:05.79 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+sourav             689   3.9  0.5 489241456  88352   ??  S    Wed10AM   7:04.32 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+root              3715   3.7  0.1 488852688  22352   ??  Ss   12:26AM   2:15.68 /usr/libexec/PerfPowerServices
+sourav             674   1.2  0.2 488908112  37344   ??  S    Wed10AM   7:08.34 /System/Library/CoreServices/MenuBarAgent.app/Contents/MacOS/MenuBarAgent
+sourav            2539   0.7  0.7 489458128 124544   ??  S     9:26PM   0:44.02 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+sourav            8804   0.7  9.7 563400640 1632976   ??  Ss    2:19PM   5:10.65 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+root                 1   0.6  0.1 488727520  24224   ??  Ss   Wed10AM   4:00.88 /sbin/launchd
+sourav            9021   0.4  0.0 488790896   4288 s000  S     3:04PM   0:00.07 -zsh
+
+COMMAND 3: df -h
+Filesystem                            Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1                       460Gi    13Gi   342Gi     4%    487k  3.6G    0%   /
+devfs                                200Ki   200Ki     0Bi   100%     696     0  100%   /dev
+/dev/disk3s6                         460Gi    20Ki   342Gi     1%       0  3.6G    0%   /System/Volumes/VM
+/dev/disk3s2                         460Gi   9.6Gi   342Gi     3%    1.2k  3.6G    0%   /System/Volumes/Preboot
+/dev/disk3s4                         460Gi    22Mi   342Gi     1%      66  3.6G    0%   /System/Volumes/Update
+/dev/disk1s2                         550Mi   6.0Mi   528Mi     2%       1  5.4M    0%   /System/Volumes/xarts
+/dev/disk1s1                         550Mi   5.9Mi   528Mi     2%      46  5.4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                         550Mi   5.8Mi   528Mi     2%     868  5.4M    0%   /System/Volumes/Hardware
+/dev/disk3s5                         460Gi    93Gi   342Gi    22%    966k  3.6G    0%   /System/Volumes/Data
+map auto_home                          0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk3s3                         460Gi   1.9Gi   342Gi     1%      77  3.6G    0%   /Volumes/Recovery
+/Applications/MyAirtel.app/Wrapper   460Gi    93Gi   343Gi    22%    961k  3.6G    0%   /private/var/folders/q8/zr178h8s3dbbrdj18_r6nqch0000gn/X/CF7F723A-EA8F-57F0-9ABF-08588FD0CAF6
+
+COMMAND 4: macOS memory equivalent (top -l 1 | grep PhysMem)
+PhysMem: 14G used (2136M wired, 2138M compressor), 1080M unused.
+
+NOTE:
+These commands were executed on macOS.
+The command `top -l 1 | grep PhysMem` was used as
+a macOS alternative to Linux `free -h`.
