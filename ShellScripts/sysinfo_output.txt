@@ -1,0 +1,20 @@
+====================================
+       SYSTEM INFORMATION REPORT
+====================================
+Name: Sourav
+Date: Thu Nov 26 15:43:47 IST 2026
+
+CPU INFORMATION:
+Apple M5
+10
+
+MEMORY INFORMATION:
+PhysMem: 15G used (2137M wired, 2101M compressor), 315M unused.
+
+TOP 3 PROCESSES BY CPU:
+_windowserver      416   7.5  0.7 490165792 118800   ??  Ss   Wed10AM  97:09.62 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+sourav            8804   3.3  9.6 563421408 1611808   ??  Ss    2:19PM   7:40.20 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+root               485   2.0  0.1 488960720  22608   ??  Ss   Wed10AM   8:01.68 /usr/libexec/airportd
+
+====================================
+Report generated successfully.
