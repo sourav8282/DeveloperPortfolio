@@ -39,3 +39,15 @@
 - Improve programming skills
 - Prepare for internships
 
+---
+
+## Screenshots
+
+### GitHub Profile
+![GitHub Profile](Screenshots/github_profile.png)
+
+### LinkedIn Profile
+![LinkedIn Profile](Screenshots/linkedin_profile.png)
+
+### Backup Script Demo
+![Backup Demo](Screenshots/backup_demo.png)
