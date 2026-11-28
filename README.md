@@ -1,53 +1,69 @@
 # Sourav — Developer Portfolio
 
-> B.Tech Student | 1stSemester | Aspiring Software Developer
+**B.Tech Student | K.R. Mangalam University**
 
----
+## Student Information
 
-## Repository Index
+- **Name:** Sourav
+- **Roll Number:** 2601730345
+- **Section:** G
+- **Programme:** B.Tech – Computer Science & Engineering
 
-| Repository                                                               | Description                             | Tech Stack        | Status |
-| ------------------------------------------------------------------------ | --------------------------------------- | ----------------- | ------ |
-| [cse103-lab-LAB3](https://github.com/sourav8282/cse103-lab-LAB3)         | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
-| [developer-portfolio](https://github.com/sourav8282/developer-portfolio) | Personal portfolio index                | Markdown          | Active |
+## Repository Information
 
----
+- **Repository Name:** DeveloperPortfolio
+- **Repository URL:** https://github.com/sourav8282/DeveloperPortfolio
 
-## Current Skills
+## Professional Profiles
 
-- Python
-- Linux / Bash
-- Git / GitHub
-- Markdown
+- **GitHub Profile:** https://github.com/sourav8282
+- **LinkedIn Profile:** https://www.linkedin.com/in/sourav-badgujjar-71a176431/
+- **Portfolio Website:** https://sourav8282.github.io/DeveloperPortfolio/
 
----
+## Project Structure
+
+- `Linux/` — System profile and command outputs
+- `ShellScripts/` — System information and backup scripts
+- `API/` — API data and documentation
+- `Portfolio/` — Resume and learning roadmap
+- `Screenshots/` — Project screenshots
+- `index.html` — Personal portfolio website
+
+## Skills
+
+- Python Fundamentals
+- Linux Commands
+- Bash Scripting
+- Git and GitHub
+- REST APIs
+- JSON and jq
+- HTML and CSS Fundamentals
 
 ## Learning Roadmap
 
+My career goal is to become a Full-Stack Developer.
+
 - Improve Python programming
 - Learn Data Structures and Algorithms
-- Practice Linux and Shell scripting
+- Learn HTML, CSS and JavaScript
+- Learn React and Node.js
+- Work with databases and REST APIs
 - Build real-world projects
-- Learn Web Development
 
----
-
-## Current Goals
-
-- Complete CSE103 Lab assignments
-- Build a strong GitHub portfolio
-- Improve programming skills
-- Prepare for internships
-
----
-
-## Screenshots
+## Project Screenshots
 
 ### GitHub Profile
+
 ![GitHub Profile](Screenshots/github_profile.png)
 
 ### LinkedIn Profile
+
 ![LinkedIn Profile](Screenshots/linkedin_profile.png)
 
-### Backup Script Demo
+### Backup Script Demonstration
+
 ![Backup Demo](Screenshots/backup_demo.png)
+
+## Conclusion
+
+This repository contains my CSE103 capstone project work, including Linux documentation, shell scripts, API interaction and my personal developer portfolio.
